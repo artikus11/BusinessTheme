@@ -7,8 +7,6 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called Business, or underscores.
-
 == Description ==
 
 Создание бизнес-темы со множеством настроек. 
@@ -23,7 +21,3 @@ A starter theme called Business, or underscores.
 = 1.0 - 3.01.2017 =
 * Исходная тема
 
-== Credits ==
-
-* Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
