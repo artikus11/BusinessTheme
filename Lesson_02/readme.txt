@@ -1,8 +1,6 @@
 === Business ===
-
-Contributors: automattic
-Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
-
+Contributors: Artem Abramovich
+Tags: translation-ready, theme-options, custom-menu, post-formats, threaded-comments
 Requires at least: 4.0
 Tested up to: 4.7
 Stable tag: 1.0.0
@@ -13,24 +11,17 @@ A starter theme called Business, or underscores.
 
 == Description ==
 
-Hi. I'm a starter theme called Business, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+Создание бизнес-темы со множеством настроек. 
+Смотри на Ютубе https://www.youtube.com/playlist?list=PLzFj4L-LMRzszss1UVC3xwzV_mC6TTyYp
+Читай на сайте http://wpruse.ru/html2wp/
 
-== Installation ==
-
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
-
-== Frequently Asked Questions ==
-
-= Does this theme support any plugins? =
-
-Business includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
+= 1.0.1 - 10.01.2017 =
+* Добавлены стили, скрипты и настройки
 
-= 1.0 - May 12 2015 =
-* Initial release
+= 1.0 - 3.01.2017 =
+* Исходная тема
 
 == Credits ==
 
