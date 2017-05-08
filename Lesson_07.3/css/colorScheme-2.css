@@ -1,0 +1,199 @@
+/* camera.scss
+=========================================================*/
+/*================   Custom Layout&Styles   =====================*/
+.camera_caption [class*="grid_"] {
+  color: #07a8be;
+}
+
+.camera_next,
+.camera_prev {
+  color: #07a8be;
+}
+.camera_next:hover,
+.camera_prev:hover {
+  color: #888;
+}
+
+/* google-map.scss
+=========================================================*/
+/* owl-carousel.scss
+=========================================================*/
+@-webkit-keyframes fadeOut {}
+.owl-carousel {
+  background: whitesmoke;
+}
+
+.owl-dots .owl-dot:hover, .owl-dots .owl-dot.active {
+  background: #00cae5;
+}
+
+/* style.scss
+=========================================================*/
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+  color: #01BBD4;
+}
+
+hr {
+  background: #e5e5e5;
+}
+
+.hr {
+  border-bottom: 3px solid #01BBD4;
+}
+
+.brand_name {
+  color: #07a8be;
+}
+
+.bg-primary {
+  background: #01BBD4;
+}
+.bg-primary .icon {
+  color: #01BBD4;
+}
+.bg-primary .product-list hr {
+  border-bottom: 0;
+}
+
+.bg-secondary {
+  background: whitesmoke;
+}
+
+.icon {
+  background: #01BBD4;
+}
+
+.icon2 {
+  color: #01BBD4;
+  background: #eaeaea;
+}
+
+.btn:hover,
+.btn2:hover {
+  background: #01a2b8;
+}
+.btn:active,
+.btn2:active {
+  background: #007586;
+}
+
+.btn {
+  background: #01BBD4;
+}
+
+.btn2 {
+  color: #0690a3;
+  background: #eaeaea;
+}
+
+.banner li {
+  background: #01BBD4;
+}
+.banner li:nth-child(1) {
+  background: #0690a3;
+}
+.banner li:nth-child(2) {
+  background: #069db2;
+}
+.banner li:nth-child(3) {
+  background: #07a8be;
+}
+
+.product-list li .box:hover .icon {
+  background: #01a2b8;
+}
+
+blockquote q:before {
+  color: #01BBD4;
+}
+blockquote cite {
+  color: #01BBD4;
+}
+
+.marked-list li {
+  color: #01BBD4;
+}
+.marked-list li + li {
+  border-top: 1px solid #e5e5e5;
+}
+.marked-list a:hover {
+  color: #777777;
+}
+
+.contact-list a:hover {
+  color: #01BBD4;
+}
+
+.contact-list2 h3 {
+  color: #0690a3;
+}
+
+table {
+  border: 1px solid #e5e5e5;
+}
+table td {
+  border: 1px solid #e5e5e5;
+}
+table tr:nth-child(even) {
+  background: whitesmoke;
+}
+
+.info-box {
+  background: #01BBD4;
+}
+
+.info dt {
+  color: #777777;
+}
+
+header a[href^="callto:"] {
+  color: #777777;
+}
+header a[href^="callto:"]:before {
+  color: #00cae5;
+}
+
+main p + a[href^="mailto:"] {
+  color: #01BBD4;
+}
+
+footer {
+  background: whitesmoke;
+}
+footer section + section .container {
+  border-top: 1px solid #e5e5e5;
+}
+
+.sf-menu > li > a {
+  color: #07a8be;
+}
+.sf-menu > li.sfHover > a, .sf-menu > li > a:hover {
+  background: #07a8be;
+  border-right: 1px solid #0698ad;
+}
+.sf-menu > li.active > a {
+  background: #07a8be;
+  border-right: 1px solid #0698ad;
+}
+
+.sf-menu ul > li > a {
+  color: #01BBD4;
+}
+.sf-menu ul > li.sfHover > a, .sf-menu ul > li > a:hover {
+  color: #777777;
+}
+
+.sf-menu > li > ul > li > .sf-with-ul:before {
+  color: #01BBD4;
+}
+
+.toTop {
+  background: #888;
+}
+.toTop:hover {
+  background: #01BBD4;
+}
+
+a[href^="callto:"]:hover {
+  color: #01BBD4;
+}
